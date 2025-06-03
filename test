@@ -1,0 +1,65 @@
+Absolutely. The prompt in the screenshot asks:
+
+“What is our market share, any key deals, and contracts RBC has with ServiceNow?”
+
+Here’s a professional response an AI assistant could generate for an investment banker, assuming it has access to typical sources like investor reports, deal databases, and internal CRM:
+
+⸻
+
+🧠 Market Share, Key Deals, and RBC’s Relationship with ServiceNow
+
+1. Market Share (ServiceNow)
+	•	ServiceNow holds an estimated 40–50% market share in the enterprise IT service management (ITSM) space.
+	•	It leads the digital workflow automation segment, with significant adoption across financial services, government, and healthcare.
+	•	Its Digital Workflow Products now account for 88.5% of total revenue, as seen in their latest FY report — marking a shift from core ITSM to full-stack enterprise operating platforms.
+
+2. Key Deals
+	•	Recent high-profile enterprise deals include:
+	•	$10M+ contracts with multinational banks and insurance companies (names often undisclosed)
+	•	Expansion into GRC (Governance, Risk, and Compliance) modules within financial services
+	•	Integration with hyperscalers (e.g., Microsoft Azure and AWS) to support banking-specific workflows
+
+3. RBC’s Relationship with ServiceNow
+	•	RBC has leveraged ServiceNow for:
+	•	IT operations automation and incident management
+	•	Enterprise-wide ticketing and workflow orchestration
+	•	Potentially, GRC and HR onboarding modules across business units
+	•	Specific contracts or dollar values are not publicly disclosed, but based on peer activity, RBC likely maintains a multi-year enterprise license agreement in the mid- to high-single-digit million CAD annually.
+
+⸻
+
+Perfect — you’re aiming to show granular prompt-response interaction, where the banker edits just one bullet within a larger meeting brief section (e.g. “Top Things to Know”), and the AI responds with an updated suggestion for that bullet only.
+
+⸻
+
+🔹 Example Setup: In-Context Interaction
+
+Heading:
+2. ServiceNow Q1 Revenue Beat
+
+Subscription revenue grew 20% YoY to $3.05B, driven by enterprise renewals and upsell momentum.
+
+⸻
+
+🔹 Banker Prompt (Edit Request):
+
+“Can you rewrite this to focus more on margin expansion instead of revenue growth?”
+
+⸻
+
+🔹 AI Response:
+
+Revised:
+ServiceNow’s Q1 results highlighted margin strength, with operating margin expanding to 30.5%—underscoring scalable delivery and disciplined cost control.
+
+⸻
+
+💡 Optional Add-on:
+
+Add a “Replace” or “Accept” button next to the updated suggestion, so the user can seamlessly adopt the new bullet into the brief.
+
+⸻
+
+Would you like a few more examples of this interaction pattern? I can do one where the banker challenges sentiment, or another where the prompt asks to “make it punchier for a CFO.”
+
+Would you like this framed in bullet points for the “Top Things to Know” section of the meeting brief, or exported into a pitch slide format?
