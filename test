@@ -107,3 +107,23 @@ RBC was to follow up with a proposed structure for co-development around ESG wor
 ⸻
 
 Would you like me to mock up how these expand/collapse states should behave visually or hand this off in Figma copy? I can also tag prompts to regenerate individual bullets just like your previous request.
+
+Absolutely — here’s the same improved, banker-intuitive prompt with an added instruction to include one non-standard slide that could create an edge or provoke discussion in the room.
+
+⸻
+
+✅ Final Banker-Optimized Prompt with Differentiator
+
+“I’m preparing a pitch book for Panera Bread, a privately held fast-casual restaurant chain backed by PE. The objective is to explore strategic M&A options — both potential acquisition targets and possible exit opportunities. I cover the consumer & retail sector. Can you generate a full outline for the deck, including all the usual sections like company overview, industry landscape, strategic alternatives, valuation, and execution roadmap — structured the way we’d present to a board or C-suite?
+Also include one slide that’s not typically found in pitch books — something that could create differentiation or spark strategic discussion.”
+
+⸻
+
+🧠 Example of Non-Typical Slide the LLM Might Add:
+
+“Digital Loyalty Flywheel & Data Monetization Potential”
+Break down how Panera’s loyalty app data, cross-channel engagement, and predictive analytics could be turned into new revenue streams (e.g., personalized menus, dynamic pricing, B2B data partnerships).
+
+This prompt nudges the LLM to think creatively, while still staying within the high-trust, high-stakes tone of an IB presentation.
+
+Would you like me to generate the full outline output using this prompt now?
