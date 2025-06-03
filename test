@@ -127,3 +127,101 @@ Break down how Panera’s loyalty app data, cross-channel engagement, and predic
 This prompt nudges the LLM to think creatively, while still staying within the high-trust, high-stakes tone of an IB presentation.
 
 Would you like me to generate the full outline output using this prompt now?
+
+Got it — you’re absolutely right. In a realistic GenAI-powered workflow, the banker won’t jump to “add a histogram” unless they first explore the underlying data and identify patterns worth visualizing differently.
+
+Here’s a fully thought-out end-to-end interaction flow starting with data exploration, then evolving into chart enhancement via prompt.
+
+⸻
+
+🔄 End-to-End Interaction: Explore → Discover → Enhance Visualization
+
+⸻
+
+🎬 Step 1: User Opens Slide with Time Series Chart
+
+The banker sees the standard line chart of EV/EBITDA multiples over time across three restaurant categories (as in your Panera slide).
+
+⸻
+
+🧠 Step 2: User Says:
+
+“Can you show me the raw data behind this chart?”
+
+⸻
+
+🤖 AI Responds:
+
+“Here’s the underlying dataset: EV/NTM EBITDA multiples for Casual, Limited Service, and Fast Casual from Oct 2013 to Oct 2023.”
+
+It displays a scrollable table or dynamic preview panel:
+
+Date	Casual	Limited Service	Fast Casual
+Oct-13	40.1	44.7	52.2
+…	…	…	…
+Oct-23	48.9	53.6	66.4
+
+
+⸻
+
+🔍 Step 3: User Explores Further
+
+“What’s the average and standard deviation of Fast Casual multiples over this time period?”
+
+⸻
+
+🤖 AI Calculates:
+
+“Fast Casual: Mean = 55.2x, Std Dev = 7.4x. Range: 38.9x (min) to 67.3x (max). Most values fall between 50x–60x.”
+
+⸻
+
+💡 Step 4: User Gets Curious
+
+“How are these multiples distributed? Show me a histogram.”
+
+⸻
+
+📊 Step 5: AI Generates Histogram
+
+A new chart appears:
+
+Title: “Distribution of Fast Casual EV/NTM EBITDA Multiples (2013–2023)”
+
+	•	X-axis: Multiple bins (e.g., 35–40x, 40–45x…)
+	•	Y-axis: Frequency
+	•	Overlaid line: Mean at 55.2x
+
+⸻
+
+🧭 Step 6: User Enhances It Further
+
+“Now overlay a line chart of the annual average multiple by year, so we can see time trend alongside distribution.”
+
+Chart is now a combo of:
+	•	Histogram (distribution)
+	•	Line graph (avg by year from 2013–2023)
+
+⸻
+
+🧾 Step 7: Final Edits & Export
+
+User edits title or adds insight:
+
+“Add a note that valuations peaked during COVID and again post-2022 due to digital momentum.”
+
+✅ “Add to pitch deck”
+
+⸻
+
+🔚 Outcome
+
+This flow lets the banker:
+	•	Explore data
+	•	Ask questions naturally
+	•	Discover interesting patterns
+	•	Generate compelling visualizations they wouldn’t have known to ask for upfront
+
+⸻
+
+Would you like help building a prompt scaffolding system that adjusts based on stage (e.g., “explore”, “summarize”, “visualize”)? Or should I turn this into a storyboard-style visual mock for demo purposes?
